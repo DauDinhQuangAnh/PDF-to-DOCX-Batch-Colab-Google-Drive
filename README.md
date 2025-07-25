@@ -1,5 +1,5 @@
 
-# Công cụ Chuyển đổi PDF sang DOCX Hàng Loạt (Colab + Google Drive)
+# [Công cụ Chuyển đổi PDF sang DOCX Hàng Loạt (Colab + Google Drive)](https://colab.research.google.com/drive/1DyoDWf_4D0CRSj0Jy6nMbW-ccw1apX8Y?usp=sharing)
 
 > **Mục tiêu:** Tự động hoá việc chuyển đổi nhiều tệp PDF trong một thư mục Google Drive sang định dạng DOCX, đồng thời hỗ trợ OCR cho các file scan bằng Tesseract *hoặc* Google Gemini AI.
 
